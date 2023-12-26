@@ -1,4 +1,4 @@
-#include<iostream>	 //Standard C++ header file that contains declarations for input and output.
+#include<iostream>	 //Standard C++ header file that contains declarations for input and outpu
 #include<Windows.h>  // headerfile for Windows-specific functions, constants, and data types(eg. ,GetStdHandle,SetConsoleTextAttribute, HANDLE )
 #include<fstream>	 //header file for file handling functions
 #include<conio.h>	 //headerfile for Console input/output functions (e.g., getch, clrscr)
